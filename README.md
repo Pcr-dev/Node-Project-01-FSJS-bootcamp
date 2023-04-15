@@ -1,2 +1,4 @@
 # Node-Project-01-FSJS-bootcamp
-E-commerce practice project guide from FSJS 2.0 bootcamp
+#### E-commerce practice project guide from Full Stack Js 2.0 bootcamp @Ineuron.ai
+### Tech Stacks used in
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stacks%20used%20in%20this%20project&titleAlign=center&showBorder=false&lineHeight=6&lineCount=6&gap=7&hideBg=true&hideTitle=true&line1=node.js,Node.js,b3ff00;&line2=css3,css3,a6d2ca;&line3=HTML5,HTML,aa3700;&line4=react,react,000097;&line5=tailwindcss,tailwindcss,400080;&line6=MONGODB,Mongo%20DB,004000;)](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stacks%20used%20in%20this%20project&titleAlign=center&showBorder=false&lineHeight=6&lineCount=6&gap=7&hideBg=true&hideTitle=true&line1=node.js,Node.js,b3ff00;&line2=css3,css3,a6d2ca;&line3=HTML5,HTML,aa3700;&line4=react,react,000097;&line5=tailwindcss,tailwindcss,400080;&line6=MONGODB,Mongo%20DB,004000;)
