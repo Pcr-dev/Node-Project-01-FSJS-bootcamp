@@ -1,0 +1,29 @@
+{
+  "name": "back-end-project-node-mongo-db",
+  "version": "1.0.0",
+  "description": "e-comm back end project",
+  "type": "module",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pcr-dev/Node-Project-01-FSJS-bootcamp.git"
+  },
+  "keywords": [
+    "learning back end"
+  ],
+  "author": "Pratap and Ineuron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pcr-dev/Node-Project-01-FSJS-bootcamp/issues"
+  },
+  "homepage": "https://github.com/Pcr-dev/Node-Project-01-FSJS-bootcamp#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.3"
+  }
+}
